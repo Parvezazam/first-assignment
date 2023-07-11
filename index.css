@@ -2,6 +2,38 @@
     margin: 0;
     padding: 0;
 }
+/* nav style*/
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background-color:#fd345f;
+    color: aliceblue;
+    
+}
+nav a:hover{
+    cursor: pointer;
+    color: aqua;
+}
+nav li{
+    list-style: none;
+   
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 30px;
+}
+.menu{
+    display: flex;
+   
+    margin-right: 10px;
+    
+}
+
+
+
+
 /* heading style*/
 
 .banner{
