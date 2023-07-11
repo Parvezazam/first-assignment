@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* heading style*/
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+   
+   
+    
+}
+.h1-title{
+    color: #272727;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+.red-flower{
+    width: 600px;
+    height:850px;
+    
+
+    
+}
+.pngwin{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.sdv{
+    width: 650px;
+    padding:200px;
+}
+.description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 600px;
+}
+.btn{
+    background: #E55473;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    
+    
+}
+/*main style*/
+
+/*main first section style*/
+
+.snd-banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 40px;
+   
+}
+.center{
+    text-align: center;
+    width: 600px;
+
+}
+.title{
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+    
+}
+.heading{
+    
+    height: 800px;
+}
+.single-word{
+    color: #E55473;
+}
+/*instagram div style*/
+
+.instagram-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+    text-align: center;
+   
+}
+.image-container img{
+    margin-left: 20px;
+   
+
+}
+.image-container{
+   margin: 0 100px 90px 120px;
+   text-align: center;
+}
+/* style for get the latest deals*/
+.rectangle-9{
+    background-image: url(image.jpg/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+    text-align: center;
+    padding-top: 100px;
+}
+.inpute{
+    padding: 5px 5px 5px 15px;
+    width: 700px;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+    
+}
+.bag-container{
+    margin-bottom: 200px;
+    
+}
+.label{
+    text-align: center;
+    
+}
+.top{
+    margin-top: 100px;
+}
+/*footer style*/
+
+.footer-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    text-align: center;
+   
+}
+.footer-seation{
+    text-align: center;
+    height: 400px;
+    background-color: #000000;
+    padding: 300px;
+
+}
+.fh-1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    margin-bottom: 0;
+}
+.foot-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.fp{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+  
+}
